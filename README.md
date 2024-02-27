@@ -54,4 +54,4 @@ keras_skin64S.py: This can classify 28 test images into one of seven skin cancer
 </pre>
 
 Download hmnist_64_64_RGB.csv from the following site:
-<a href="https://neuro.musashino-u.ac.jp/hmnist_64_64_RGB.csv"> hmnist_64_64_RGB.csv</a>
+<a href="https://neuro.musashino-u.ac.jp/~takefuji/hmnist_64_64_RGB.csv"> hmnist_64_64_RGB.csv</a>
